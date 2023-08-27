@@ -3,7 +3,6 @@ I'm Aman Singh Bais, an enthusiastic and driven I.T. engineering graduate from t
 
 I possess a solid foundation in web development, particularly in the popular MERN stack, showcasing my proficiency in JavaScript, React, Node.js, and MongoDB. Additionally, I have garnered valuable experience working with Java, C++, and Amazon Web Services. I am eager to take on new challenges and embrace opportunities that will contribute to my personal and professional growth.
 
-https://amansinghbais.github.io/
 <!--
 **amansinghbais/amansinghbais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

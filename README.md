@@ -1,19 +1,37 @@
-### Hi there 👋
-I'm Aman Singh Bais, an enthusiastic and driven I.T. engineering graduate from the Institute of Engineering and Technology, DAVV, Indore. With a strong passion for emerging technologies, I constantly seek opportunities to broaden my knowledge and expertise. 
+# Hi there, I'm Aman Singh Bais! 👋
 
-I possess a solid foundation in web development, particularly in the popular MERN stack, showcasing my proficiency in JavaScript, React, Node.js, and MongoDB. Additionally, I have garnered valuable experience working with Java, C++, and Amazon Web Services. I am eager to take on new challenges and embrace opportunities that will contribute to my personal and professional growth.
+I'm an enthusiastic and driven I.T. engineering graduate from the Institute of Engineering and Technology, DAVV, Indore. My passion lies in exploring and mastering emerging technologies, and I'm always on the lookout for opportunities to expand my knowledge and expertise.
 
-<!--
-**amansinghbais/amansinghbais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring the realms of web development, with a strong focus on the MERN/MEVN stack.
+- 🌱 I enjoy learning and applying the latest advancements in technology to create innovative solutions.
+- 💡 I believe in the power of technology to make a positive impact on the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Frontend: ReactJS, VueJS
+- Backend: Node.js, Express.js
+- Database: MongoDB, SQL
+- Programming Languages: Java, C++, C, JavaScript
+- Cloud: Amazon Web Services (AWS)
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/aman-singh-bais/) | [Gmail](mailTo:singh11amanbais@gmail.com)
+
+## 📊 GitHub Stats
+
+[![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansinghbais&show_icons=true&hide=contribs,issues&theme=radical)](https://github.com/amansinghbais)
+
+Feel free to explore my repositories for more!
+
+## 🚧 Currently Working On
+
+Enterprise Software Developer <b>@[LinkedIn](https://github.com/hotwax/)</b>
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration and new opportunities. If you have an interesting project or just want to chat, feel free to reach out!
+
+Thanks for stopping by! 😊

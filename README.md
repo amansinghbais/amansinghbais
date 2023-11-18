@@ -18,7 +18,8 @@ I'm an enthusiastic and driven I.T. engineering graduate from the Institute of E
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/aman-singh-bais/) | [Gmail](mailTo:singh11amanbais@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-singh-bais/)
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh11amanbais@gmail.com)
 
 ## 📊 GitHub Stats
 

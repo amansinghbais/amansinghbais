@@ -28,7 +28,7 @@ Feel free to explore my repositories for more!
 
 ## 🚧 Currently Working On
 
-Enterprise Software Developer <b>@[LinkedIn](https://github.com/hotwax/)</b>
+Enterprise Software Developer <b>@[Hotwax Commerce](https://github.com/hotwax/)</b>
 
 ## 🤝 Let's Connect
 

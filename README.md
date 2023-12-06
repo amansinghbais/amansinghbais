@@ -28,7 +28,7 @@ I'm an enthusiastic and driven I.T. engineering graduate from the Institute of E
 
 Feel free to explore my repositories for more!
 
-## 🚧 Currently Working On
+## 🚧 Currently Working As
 
 Enterprise Software Developer <b>@[Hotwax Commerce](https://github.com/hotwax/)</b>
 

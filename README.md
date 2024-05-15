@@ -23,7 +23,7 @@ I'm an enthusiastic and driven I.T. engineering graduate from the Institute of E
 
 ## 📊 GitHub Stats
 
-[![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansinghbais&show_icons=true&include_all_commits=true&hide=issues&rank_icon=github&theme=chartreuse-dark)](https://github.com/amansinghbais)
+[![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansinghbais&show_icons=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark)](https://github.com/amansinghbais)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghbais&layout=compact&theme=chartreuse-dark)
 
 Feel free to explore my repositories for more!

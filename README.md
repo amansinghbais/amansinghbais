@@ -1,8 +1,5 @@
 # Hi there, I'm Aman Singh Bais! 👋
 
-I'm an enthusiastic and driven I.T. engineering graduate from the Institute of Engineering and Technology, DAVV, Indore. My passion lies in exploring and mastering emerging technologies, and I'm always on the lookout for opportunities to expand my knowledge and expertise.
-
-
 I am a Software Developer @Hotwax Commerce, Graduated from IET-DAVV, Indore, currently working on OMS product suite web-apps built over VueJs, Vuex/Pinia, Ionic.
 
 ## 🚀 About Me

@@ -2,16 +2,18 @@
 
 I'm an enthusiastic and driven I.T. engineering graduate from the Institute of Engineering and Technology, DAVV, Indore. My passion lies in exploring and mastering emerging technologies, and I'm always on the lookout for opportunities to expand my knowledge and expertise.
 
+
+I am a Software Developer @Hotwax Commerce, Graduated from IET-DAVV, Indore, currently working on OMS product suite web-apps built over VueJs, Vuex/Pinia, Ionic.
+
 ## 🚀 About Me
 
-- 🔭 I’m currently exploring the realms of web development, with a strong focus on the MERN/MEVN stack.
-- 🌱 I enjoy learning and applying the latest advancements in technology to create innovative solutions.
-- 💡 I believe in the power of technology to make a positive impact on the world.
+- 🔭 My expertise spans an extensive toolkit encompassing Vue, React, Js, Ts alongside NodeJs, MongoDB broadening my capability across the entire development spectrum. Additionally, I've extended my proficiency to Java.
+- 🌱 My skill set is characterized by robust problem-solving abilities and a keen analytical mindset, allowing me to adeptly identify and resolve intricate issues with efficiency.
+- 💡 I am committed to continuously refining my skillset by staying updated with the latest advancements in technology trends.
 
 ## 💻 Tech Stack
 
-- Frontend: ReactJS, VueJS
-- Backend: Node.js, Express.js
+- Development: VueJs, ReactJs, Ionic, NodeJs, ExpressJs, VueX, Pinia, Html, Css
 - Database: MongoDB, SQL
 - Programming Languages: Java, C++, C, JavaScript
 - Cloud: Amazon Web Services (AWS)
